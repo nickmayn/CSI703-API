@@ -1,0 +1,4 @@
+typing
+fastapi
+faker
+uvicorn[standard]
